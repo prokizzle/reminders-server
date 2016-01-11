@@ -8,10 +8,10 @@ I built this to be able to add my food diary from MyFitnessPal to Apple Reminder
 
 ## Installation
 
-`git clone https://github.com/prokizzle/reminders-server`
-`cd reminders-server`
-`bundle install`
-`rake install`
+    git clone https://github.com/prokizzle/reminders-server
+    cd reminders-server
+    bundle install
+    rake install
 
 The above commands will install `pow` and `powder` if necessary, and setup a pow server called `reminders.dev`/
 
