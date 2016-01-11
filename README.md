@@ -17,7 +17,7 @@ The above commands will install `pow` and `powder` if necessary, and setup a pow
 
 ## Usage
 
-Make a POST request to http://reminders.dev, with paramaters:
+Make a POST request to http://reminders-server.dev, with paramaters:
 
 + name: string - title of the reminder
 + list: string - name of your list in Reminders
